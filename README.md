@@ -29,6 +29,3 @@ This issue is caused by the way dots are created when collisions occur. If two d
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

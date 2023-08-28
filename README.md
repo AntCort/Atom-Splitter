@@ -2,7 +2,7 @@
 
 # Dot Simulation Project
 
-This is a simple dot simulation project using the Pygame library. The program creates a set of dots that move around the screen with bouncing behavior when they hit the screen edges. The dots can also collide with each other, creating new dots with adjusted velocities.
+This is a simple atom splitting simulation project using the Pygame library. The program creates a set of dots that move around the screen with bouncing behavior when they hit the screen edges. The dots can also collide with each other, creating new dots with adjusted velocities.
 
 ## Installation
 
